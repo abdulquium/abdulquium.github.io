@@ -30,7 +30,7 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  font-size: 15px;
+  font-size: 25px;
   max-width: 70%;
   margin-top: -1em;
   margin-bottom: -1em;
@@ -133,5 +133,6 @@ i{
     margin-right: 20px;
   }
 }
+
 
 
